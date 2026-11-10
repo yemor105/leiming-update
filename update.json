@@ -1,11 +1,11 @@
 {
-  "versionCode": 20,
-  "version": "2.8.2",
+  "versionCode": 21,
+  "version": "2.8.3",
   "date": "2026-11-11",
-  "url": "https://cdn.jsdelivr.net/gh/yemor105/leiming-update@main/leiming-2.8.2.apk",
+  "url": "https://cdn.jsdelivr.net/gh/yemor105/leiming-update@main/leiming-2.8.3.apk",
   "notes": [
-    "更新源改走 GitHub Contents API，改完立刻生效",
-    "安装包按版本号命名，升级永远拿到新包，不会读到旧缓存",
-    "jsDelivr 仍保留作兜底"
+    "更新源固定写入应用内，设置里不再提供修改入口",
+    "检查更新失败时不再显示请求地址",
+    "继续保持改完即生效（GitHub API 直读）"
   ]
 }
