@@ -1,0 +1,11 @@
+{
+  "versionCode": 18,
+  "version": "2.8.0",
+  "date": "2026-11-11",
+  "url": "https://cdn.jsdelivr.net/gh/yemor105/leiming-update@main/leiming.apk",
+  "notes": [
+    "内置 jsDelivr 更新源，装好即可自动检查新版本",
+    "安装包托管在 GitHub，下载地址永久不变",
+    "新增更新日志面板，可查看历史版本改动"
+  ]
+}
